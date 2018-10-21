@@ -1,0 +1,7 @@
+#Ignore-List
+/bin
+/obj
+*.config
+*.csproj
+*.txt
+*.md
