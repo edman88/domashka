@@ -1,6 +1,6 @@
 #Ignore-List
-/bin
-/obj
+/FirstProgram/bin
+/FirstProgram/obj
 *.config
 *.csproj
 *.txt
